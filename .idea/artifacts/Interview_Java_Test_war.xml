@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="Interview_Java_Test:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/Interview_Java_Test_war</output-path>
+    <root id="archive" name="Interview_Java_Test_war.war">
+      <element id="artifact" artifact-name="Interview_Java_Test:war exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - interview_java@104.140.22.47" uuid="a955679f-53d1-4521-86b9-78d8b7468499">
+      <secret-storage>master_key</secret-storage>
+      <user-name>tomcat_testing</user-name>
+    </data-source>
+  </component>
+</project>
